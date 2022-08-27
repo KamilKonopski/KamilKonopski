@@ -7,11 +7,11 @@
 
 :computer: What I`m learn now:
 
-:book: React
+<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" height="25" width="25"/>  React</p>
 
-:book: TypeScript
+<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="TypeScript" height="25" width="25"/>  TypeScript</p>
 
-:book: Node
+<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="Node" height="25" width="25"/>  Node</p>
 
 :busts_in_silhouette: My socials: 
 
