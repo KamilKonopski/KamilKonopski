@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I`m Kamil</h1>
 <h2 align="center">I`m self-taught of frontend</h2>
 
-:point_right: My page [konopski-tsi.pl](https://konopski.tsi.pl)
+:point_right: My page: [konopski-tsi.pl](https://konopski.tsi.pl)
 
 :computer: What I`m learn now:
 
