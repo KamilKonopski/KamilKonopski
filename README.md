@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I`m Kamil</h1>
-<h2 align="center">I`m self-taught of frontend</h2>
+<h2 align="center">self-learning front-end developer</h2>
 
 <p>Take a look of my repositories and give me a feedback :smiley:</p>
 
