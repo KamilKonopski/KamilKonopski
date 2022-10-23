@@ -13,6 +13,8 @@
 
 <p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="Node" height="25" width="25"/>  Node</p>
 
+<p>And I am constantly improving my skills in html, css and js</p>
+
 :busts_in_silhouette: My socials: 
 
 <a href="https://twitter.com/MaerS__"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" alt="maers__" height="50" width="50"/></a>
