@@ -3,7 +3,7 @@
 
 <p>Take a look of my repositories and give me a feedback :smiley:</p>
 
-:point_right: My page: [konopski-tsi.pl](https://konopski.tsi.pl)
+:point_right: My page: [konopski-tsi.pl](https://konopski-tsi.pl)
 
 :computer: What I`m learn now:
 
