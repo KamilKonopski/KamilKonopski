@@ -5,15 +5,11 @@
 
 :point_right: My page: [konopski-tsi.pl](https://konopski-tsi.pl)
 
-:computer: What I`m learn now:
+:computer: MY TECH STACK:
 
-<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" height="25" width="25"/>  React</p>
+<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="TypeScript" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="TypeScript" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/sass.svg" alt="Sass" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="Git" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/jest.svg" alt="Jest" height="40" width="40"/>
 
-<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="TypeScript" height="25" width="25"/>  TypeScript</p>
-
-<p><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="Node" height="25" width="25"/>  Node</p>
-
-<p>And I am constantly improving my skills in html, css and js</p>
+<p>I am constantly improving my skills in html, css and js</p>
 
 :busts_in_silhouette: My socials: 
 
