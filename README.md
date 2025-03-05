@@ -12,10 +12,3 @@
 <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="NextJS" title="NextJS" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="NodeJS" title="NodeJS" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" title="Python" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" title="Csharp" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="Unity" title="Unity" height="40" width="40"/>
 
 <p>I am constantly improving my skills in html, css and js</p>
-
-:busts_in_silhouette: My socials: 
-
-<a href="https://twitter.com/MaerS__"><img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter-alt.svg" alt="maers__" height="50" width="50"/></a>
-<a href="https://instagram.com/xmaers"><img target="blank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xmaers" height="50" width="50" /></a>
-
-
