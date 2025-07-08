@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I`m Kamil</h1>
 <h2 align="center">self-learning Front-End Developer</h2>
-<h2 align="center">Also a second-year student of IT in Business with a specialization in Front-End Developer</h2>
+<h2 align="center">Also a third-year student of IT in Business with a specialization in Front-End Developer</h2>
 <p>Take a look of my repositories and give me a feedback :smiley:</p>
 
 ## :computer: MY TECH STACK:
