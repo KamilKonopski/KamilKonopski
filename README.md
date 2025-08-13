@@ -1,14 +1,76 @@
-<h1 align="center">Hi👋, I`m Kamil</h1>
-<h2 align="center">Front-End Developer</h2>
-<h2 align="center">Also a third-year student of IT in Business with a specialization in Front-End Developer</h2>
-<p>Take a look of my repositories and give me a feedback :smiley:</p>
+<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h3 align="center">🎯 Front-End Developer | 💼 3rd Year IT Student | 📍 Poland</h3>
 
-## :computer: MY TECH STACK:
+<p align="center">
+  I'm a passionate front-end developer who enjoys building interactive and responsive web applications.<br>
+  Currently studying <strong>IT in Business</strong> with a specialization in Front-End Development.<br>
+  I'm always eager to learn, improve my skills and explore new technologies.
+</p>
 
-<img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="React" title="React" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/typescript.svg" alt="TypeScript" title="TypeScript" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="Css" title="Css" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/sass.svg" alt="Sass" title="Sass" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" title="Python" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/git.svg" alt="Git" title="Git" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub" title="GitHub" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Testing/jest.svg" alt="Jest" title="Jest" height="40" width="40"/>
+<p align="center">🚀 Feel free to explore my repositories and share your feedback!</p>
 
-## :soon: WANT TO LEARN:
+---
 
-<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="NextJS" title="NextJS" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" alt="NodeJS" title="NodeJS" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/csharp.svg" alt="csharp" title="Csharp" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Framework/dotnet.svg" alt="dotnet" title="dotNET" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unity.svg" alt="Unity Engine" title="Unity" height="40" width="40"/>  <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" title="Cplusplus" height="40" width="40"/> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/GameEngines/unreal.svg" alt="C++" title="Unreal Engine" height="40" width="40"/>
+## 🧰 Tech Stack
 
-**<p>I am constantly improving my skills in html, css and js</p>**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+I'm expanding my knowledge in the following areas:
+
+- 🔭 **Next.js** – for full-stack React applications and better SEO
+- 🌐 **Node.js** – to understand the back-end side of things
+- 💻 **C# & .NET** – exploring back-end technologies used in enterprise environments
+- 🎮 **Unity & Unreal Engine** – combining coding skills with my interest in game development
+- 💡 **C++** – to strengthen my understanding of low-level programming and performance
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KamilKonopski&show_icons=true&theme=react" alt="github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKonopski&layout=compact&theme=react" alt="top langs" />
+</p>
+
+---
+
+## 🎯 Goals for 2025
+
+- 📚 Contribute to open-source
+- 🚀 Deploy my own SaaS side-project
+- 👨‍🏫 Mentor junior devs / share knowledge
+- 🎓 Master back-end basics to become a Full-Stack Dev
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamil-konopski-623567205" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:Kamil.Konopski.2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/kamilkonopski">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for visiting my profile! 🙌</p>
