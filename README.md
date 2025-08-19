@@ -9,6 +9,8 @@
 
 <p align="center">🚀 Feel free to explore my repositories and share your feedback!</p>
 
+<p align="center">Looking for a Junior Front-End role (React / TypeScript). </p>
+
 ---
 
 ## 🧰 Tech Stack
