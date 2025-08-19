@@ -43,9 +43,9 @@ I'm expanding my knowledge in the following areas:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KamilKonopski&show_icons=true&theme=react" alt="github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKonopski&layout=compact&theme=react" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KamilKonopski&show_icons=true&theme=github_dark" alt="github stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKonopski&layout=compact&theme=github_dark" alt="top langs" />
 </p>
 
 ---
