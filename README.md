@@ -52,7 +52,7 @@ I'm expanding my knowledge in the following areas:
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 📚 Contribute to open-source
 - 🚀 Deploy my own SaaS side-project
