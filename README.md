@@ -42,12 +42,12 @@ I'm expanding my knowledge in the following areas:
 
 ---
 
-<!--## 📈 GitHub Stats -->
+## 📈 GitHub Stats
 
- <!-- <div align="center" style="display: flex;"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=KamilKonopski&show_icons=true&theme=github_dark" height="150"> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKonopski&layout=compact&theme=github_dark" height="150"> -->
-<!-- </div> -->
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KamilKonopski&show_icons=true&theme=github_dark" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilKonopski&layout=compact&theme=github_dark" height="150">
+</div>
 
 
 ---
