@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=Hi,+I'm+Kamil;Front-End+/+Fullstack+Developer;Open+to+Junior+Roles" alt="Typing SVG" /></h1>
-<h3 align="center">🎯 Front-End Developer | 💼 3rd Year IT Student | 📍 Poland</h3>
+<h3 align="center">🎯 Front-End / Fullstack Developer | 💼 3rd Year IT Student | 📍 Poland</h3>
 
 <p align="center">
   I'm a passionate front-end developer who enjoys building interactive and responsive web applications.<br>
@@ -9,7 +9,7 @@
 
 <p align="center">🚀 Feel free to explore my repositories and share your feedback!</p>
 
-<p align="center">Looking for a Junior Front-End role (React / TypeScript). </p>
+<p align="center">Looking for a Junior Front-End / Fullstack role (React / TypeScript / Node / .NET). </p>
 
 ---
 
