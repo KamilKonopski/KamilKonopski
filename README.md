@@ -1,15 +1,18 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=Hi,+I'm+Kamil;Front-End+/+Fullstack+Developer;Open+to+Junior+Roles" alt="Typing SVG" /></h1>
-<h3 align="center">🎯 Front-End / Fullstack Developer | 💼 3rd Year IT Student | 📍 Poland</h3>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=Hi,+I'm+Kamil;Software+Engineer+(Frontend-focused);Open+to+Junior+Roles" alt="Typing SVG" /></h1>
+<h3 align="center">🎯 Software Engineer (Frontend-focused) | Expanding into Backend & Full-Stack Systems | 📍 Poland</h3>
 
 <p align="center">
-  I'm a passionate front-end developer who enjoys building interactive and responsive web applications.<br>
-  Currently studying <strong>IT in Business</strong> with a specialization in Front-End Development.<br>
-  I'm always eager to learn, improve my skills and explore new technologies.
+  I`m a developer focused on building reliable, maintainable and scalable web applications.
+  Currently studying IT in Business with a specialization in Front-End Development, 
+  while expanding my knowledge in backend engineering and system design.
+  I`m particularly interested in how systems are designed, built and maintained - 
+  not just the technologies behind them.
+  I care about code quality, maintainability and writing software that works in real-world conditions.
 </p>
 
 <p align="center">🚀 Feel free to explore my repositories and share your feedback!</p>
 
-<p align="center">Looking for a Junior Front-End / Fullstack role (React / TypeScript / Node / .NET). </p>
+<p align="center">Looking for a Junior Software Engineer role (React / TypeScript / Node / Java / C#). </p>
 
 ---
 
@@ -24,8 +27,6 @@
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dot-net&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
@@ -36,13 +37,12 @@
 
 ## 🌱 Currently Learning & Exploring
 
-I'm expanding my knowledge in the following areas:
+I`m focusing on strengthening my engineering fundamentals and understanding how real-world systems are built:
 
-- 🔭 **Next.js** – for full-stack React applications and better SEO
-- 🌐 **Node.js** – to understand the back-end side of things
-- 💻 **C# & .NET** – exploring back-end technologies used in enterprise environments
-- 🎮 **Unity & Unreal Engine** – combining coding skills with my interest in game development
-- 💡 **C++** – to strengthen my understanding of low-level programming and performance
+- 🔭 Next.js - building full-stack applications with production patterns
+- 🌐 Node.js - backend fundamentals, APIs, and system design
+- 💻 Java / C# - building backend applications and exploring strongly-typed ecosystems
+- 💡 C++ - low-level programming and performance understanding
 
 ---
 
@@ -58,10 +58,11 @@ I'm expanding my knowledge in the following areas:
 
 ## 🎯 Goals for 2026
 
-- 📚 Contribute to open-source
-- 🚀 Deploy my own SaaS side-project
-- 👨‍🏫 Mentor junior devs / share knowledge
-- 🎓 Master back-end basics to become a Full-Stack Dev
+- 📚 Contribute to meaningful open-source projects (code quality, architecture, impact)
+- 🚀 Build and ship real-world projects with production best practices
+- 👨‍🏫 Mentor junior devs & share engineering best practices
+- 🧠 Deepen knowledge of system design, distributed systems & backend engineering
+- 🎓 Build strong backend & system design foundations
 
 ---
 
