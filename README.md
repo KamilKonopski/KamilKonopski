@@ -1,18 +1,16 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=Hi,+I'm+Kamil;Software+Engineer+(Frontend-focused);Open+to+Junior+Roles" alt="Typing SVG" /></h1>
-<h3 align="center">🎯 Software Engineer (Frontend-focused) | Expanding into Backend & Full-Stack Systems | 📍 Poland</h3>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=435&lines=Hi,+I'm+Kamil;Software+Engineer;Open+to+Frontend/Fullstack+Roles" alt="Typing SVG" /></h1>
+<h3 align="center">🎯 Software Engineer | Expanding into Full-Stack Systems | 📍 Poland</h3>
 
 <p align="center">
-  I`m a developer focused on building reliable, maintainable and scalable web applications.
-  Currently studying IT in Business with a specialization in Front-End Development, 
-  while expanding my knowledge in backend engineering and system design.
-  I`m particularly interested in how systems are designed, built and maintained - 
-  not just the technologies behind them.
-  I care about code quality, maintainability and writing software that works in real-world conditions.
+I am a Software Engineer focused on building reliable, maintainable, and scalable web applications.
+I am currently pursuing a master`s degree in Computer Science, specializing in web application development, while further expanding my expertise in backend engineering and system design.
+I am particularly interested in how systems are designed, built, and maintained - beyond just the technologies that power them.
+I place a strong emphasis on code quality, maintainability, and creating software that performs well in real-world conditions.
 </p>
 
 <p align="center">🚀 Feel free to explore my repositories and share your feedback!</p>
 
-<p align="center">Looking for a Junior Software Engineer role (React / TypeScript / Node / Java / C#). </p>
+<p align="center">Looking for Software Engineer role (React / TypeScript / Node / Java / C#). </p>
 
 ---
 
@@ -32,6 +30,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/-Vitest-729B1B?logo=vitest&logoColor=white&style=for-the-badge)
 
 ---
 
